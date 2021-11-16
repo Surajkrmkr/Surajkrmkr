@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ✨*Suraj*✨👋</h1>
-<!-- <p>I am a full stack web developer also a flutter developer based in India. I am a self taught programmer and currently pursuing my B.Tech in Computer Science and Engineering from <a href="https://oec.ac.in/">Orissa Engineering College</a>. I have a passion for creating web and mobile applications and learning new technologies to improve my skills and knowledge.</p> -->
+<!-- <p>I am a full stack web developer also a flutter developer based in India. --><p align="center">I am a self taught programmer and currently pursuing my B.Tech in Computer Science and Engineering from <a href="https://oec.ac.in/">Orissa Engineering College</a>. I have a passion for creating web and mobile applications and learning new technologies to improve my skills and knowledge.</p> 
 <br>
 
 <h1 align="center">Skills</h1>
@@ -39,7 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkrmkr&layout=compact&theme=synthwave&icon_color=CD52BC&hide_border=true&show_icons=true"/>
 </p>
 
-# Connect with Me
+<h1 align="center">Connect with me</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/Surajkrmkr"><img alt="Linkedin" title="Suraj karmakar" src="https://img.shields.io/badge/LinkedIn-2B213A?style=for-the-badge&logo=linkedin&logoColor=E5289E"></a>
