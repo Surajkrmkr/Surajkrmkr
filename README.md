@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ✨*Suraj*✨👋</h1>
-<!-- <p>I am a full stack web developer also a flutter developer based in India. --><p align="center">I am a self taught programmer and currently pursuing my B.Tech in Computer Science and Engineering from <a href="https://oec.ac.in/">Orissa Engineering College</a>. I have a passion for creating web and mobile applications and learning new technologies to improve my skills and knowledge.</p> 
+<p align="center">Welcome to my GitHub profile! I'm a passionate developer with expertise in Flutter, React, and Node.js. I love building innovative applications that combine creativity and functionality.</p> 
 <br>
 
 <h1 align="center">Skills</h1>
@@ -19,6 +19,7 @@
 <p align="center">
     <a href="#"><img alt="flutter" src="https://img.shields.io/badge/flutter-2B213A.svg?logo=flutter&style=for-the-badge&logoColor=E5289E"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2B213A.svg?logo=React&style=for-the-badge&logoColor=E5289E"></a>
+    <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-2B213A.svg?logo=Node.js&style=for-the-badge&logoColor=E5289E"></a>
 </p>
 <p align="center">
     <a href="#"><img alt="firebase" src="https://img.shields.io/badge/firebase-2B213A.svg?logo=firebase&style=for-the-badge&logoColor=E5289E"></a>
